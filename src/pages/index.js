@@ -43,7 +43,7 @@ export default (() => {
 					letter-spacing="1px"
 				>
 					<Text margin="0px">
-						INNER PAGES
+						INNER PGES
 					</Text>
 				</StackItem>
 				<StackItem width="25%" lg-width="50%" sm-width="100%">
