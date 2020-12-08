@@ -7,7 +7,7 @@ export default (() => {
 	return <Theme theme={theme}>
 		<Helmet>
 			<title>
-				Quarkly export
+				How to fix drywall
 			</title>
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/5fbd547eb83a2f001f2e3095/images/a24128b7c77d9ea74f31c83d5c9527ef.jpg?v=2020-11-24T18:50:44.518Z"} type={"image/x-icon"} />
